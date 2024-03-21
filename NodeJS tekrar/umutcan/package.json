@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "nodeman": "^1.1.2",
+    "yargs": "^17.7.2"
+  }
+}
